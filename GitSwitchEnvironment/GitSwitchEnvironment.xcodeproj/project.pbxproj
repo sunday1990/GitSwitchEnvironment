@@ -15,6 +15,7 @@
 		1626D19C1F185B0300C43129 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1626D19A1F185B0300C43129 /* LaunchScreen.storyboard */; };
 		1626D1A71F185B0300C43129 /* GitSwitchEnvironmentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1626D1A61F185B0300C43129 /* GitSwitchEnvironmentTests.m */; };
 		1626D1B21F185B0300C43129 /* GitSwitchEnvironmentUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1626D1B11F185B0300C43129 /* GitSwitchEnvironmentUITests.m */; };
+		1626D1C01F1866A700C43129 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1626D1BF1F1866A700C43129 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		1626D1AD1F185B0300C43129 /* GitSwitchEnvironmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitSwitchEnvironmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1626D1B11F185B0300C43129 /* GitSwitchEnvironmentUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitSwitchEnvironmentUITests.m; sourceTree = "<group>"; };
 		1626D1B31F185B0300C43129 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1626D1BF1F1866A700C43129 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				1626D1901F185B0300C43129 /* AppDelegate.m */,
 				1626D1921F185B0300C43129 /* ViewController.h */,
 				1626D1931F185B0300C43129 /* ViewController.m */,
+				1626D1BF1F1866A700C43129 /* Info.plist */,
 				1626D1951F185B0300C43129 /* Main.storyboard */,
 				1626D1981F185B0300C43129 /* Assets.xcassets */,
 				1626D19A1F185B0300C43129 /* LaunchScreen.storyboard */,
@@ -245,6 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1626D1C01F1866A700C43129 /* Info.plist in Resources */,
 				1626D19C1F185B0300C43129 /* LaunchScreen.storyboard in Resources */,
 				1626D1991F185B0300C43129 /* Assets.xcassets in Resources */,
 				1626D1971F185B0300C43129 /* Main.storyboard in Resources */,
@@ -508,6 +512,7 @@
 				1626D1B81F185B0300C43129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1626D1B91F185B0300C43129 /* Build configuration list for PBXNativeTarget "GitSwitchEnvironmentTests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +521,7 @@
 				1626D1BB1F185B0300C43129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1626D1BC1F185B0300C43129 /* Build configuration list for PBXNativeTarget "GitSwitchEnvironmentUITests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +530,7 @@
 				1626D1BE1F185B0300C43129 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
