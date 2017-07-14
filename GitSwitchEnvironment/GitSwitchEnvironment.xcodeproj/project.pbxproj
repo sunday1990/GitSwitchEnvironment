@@ -426,7 +426,7 @@
 				DEVELOPMENT_TEAM = 457RV2A88C;
 				INFOPLIST_FILE = GitSwitchEnvironment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kongjianjia.SpaceHomeManager.GitSwitchEnvironment;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kongjianjia.GitSwitchEnvironment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -438,7 +438,7 @@
 				DEVELOPMENT_TEAM = 457RV2A88C;
 				INFOPLIST_FILE = GitSwitchEnvironment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kongjianjia.SpaceHomeManager.GitSwitchEnvironment;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kongjianjia.GitSwitchEnvironment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
